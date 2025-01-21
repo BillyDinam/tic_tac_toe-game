@@ -6,7 +6,7 @@ A simple Tic-Tac-Toe game implemented in Python.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/BillyDinam/tic-tac-toe-game.git
 2. Cd tic-tac-toe
 3. python tic_tac_toe.py
 
